@@ -8,3 +8,4 @@ function details(){
 }
 
 var x = 90;
+var n = 20;
